@@ -5,3 +5,24 @@
 2022/3/7 Chapter7まで完了
 管理者: iwanatteiwanai123@gmail.com, testpassword
 追加アカウント: william, beginner
+
+P45 TemplateViewについて
+・TemplateView(テンプレートビュー)の基本操作入門:https://di-acc2.com/programming/python/5269/
+
+P51 ブロックタグについて
+・Django テンプレートの継承 [block]:https://noumenon-th.net/programming/2019/11/27/django-block/
+
+P75~77 ListViewについて
+・ListView(リストビュー)の基本操作入門:https://di-acc2.com/programming/python/5217/
+・【Django】ListViewの使い方と出来ること:https://qiita.com/aqmr-kino/items/d536e08a715a9fad5720
+
+
+P122 CreateViewについて
+・CreateViewの使い方【クラスベースビュー】:https://kosuke-space.com/django-createview
+・Createview – Class Based Views Django: https://www.geeksforgeeks.org/createview-class-based-views-django/
+
+
+P138 DeleteViewとreverse_lazyについて
+・Django DeleteViewで削除確認画面を作成:https://noumenon-th.net/programming/2019/11/20/django-deleteview/
+・【Django】renderとreverse_lazyの使い分けについて: https://qiita.com/frosty/items/1df28edde34907f53bea
+・renderとかredirectとかreverse_lazyとか:https://chuna.tech/detail/56/
